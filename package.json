@@ -1,0 +1,19 @@
+{
+  "name": "serverless_func",
+  "version": "1.0.0",
+  "description": "Test for netlify serverless function",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RhysWood/serverless_func.git"
+  },
+  "author": "Rhys Wood",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RhysWood/serverless_func/issues"
+  },
+  "homepage": "https://github.com/RhysWood/serverless_func#readme"
+}
