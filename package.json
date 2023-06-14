@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/RhysWood/serverless_func/issues"
   },
-  "homepage": "https://github.com/RhysWood/serverless_func#readme"
+  "homepage": "https://github.com/RhysWood/serverless_func#readme",
+  "devDependencies": {
+    "netlify-cli": "^15.5.1"
+  }
 }
